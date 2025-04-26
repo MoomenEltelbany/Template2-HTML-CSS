@@ -196,7 +196,7 @@ header .container .links ul {
 /* End the header logo */
 /* Start the landing page */
 .landing {
-    background-image: url(/Exercices/EX01/images/landing.jpg);
+    background-image: url('../images/landing.jpg');
     background-size: cover;
     height: 100vh;
     position: relative;
@@ -316,7 +316,7 @@ header .container .links ul {
 /* Start Design Section */
 .design {
     position: relative;
-    background-image: url(/Exercices/EX01/images/design-features.jpg);
+    background-image: url('images/design-features.jpg');
     background-repeat: no-repeat;
     background-size: cover;
     display: flex;
@@ -764,7 +764,7 @@ header .container .links ul {
 /* End the Testimonial Section */
 /* Start Quote */
 .quote {
-    background-image: url(/Exercices/EX01/images/quote.jpg);
+    background-image: url('images/quote.jpg');
     background-size: cover;
     position: relative;
     height: 300px;
